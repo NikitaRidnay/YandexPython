@@ -5,6 +5,11 @@
 
 ### Для удобства поделю на разделы по темам 
 ---
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 - 1 [Блок основы Python](https://github.com/NikitaRidnay/YandexPython/tree/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python)
   - [ ] Условные операторы
